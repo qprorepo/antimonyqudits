@@ -1,0 +1,12 @@
+circuit,family,n_qubits,logical_depth,physical_depth,logical_2q,physical_2q
+wstate_n27,entanglement,27,55,127,52,52
+ising_n26,simulation,26,16,26,50,50
+knn_n25,other,25,15,647,0,243
+bv_n19,algebraic,19,22,206,18,60
+qec9xz_n17,QEC,17,16,185,32,149
+dnn_n16,ML,16,173,321,384,420
+multiplier_n15,arithmetic,15,49,1200,30,549
+sat_n11,search,11,51,1630,0,570
+hhl_n7,linear-algebra,7,551,1183,196,325
+qaoa_n6,variational,6,110,254,54,96
+qrng_n4,sampling,4,2,4,0,0
