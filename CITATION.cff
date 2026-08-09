@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or data, please cite the manuscript below.
+  Author names are left as placeholders here because the manuscript
+  in this repository is currently anonymised for double-blind review --
+  fill them in once the paper is de-anonymised or published.
+title: >-
+  Antimony Qudits for High-Dimensional Error-Corrected Quantum Storage:
+  Nuclear Spin Encoding, Qudit Stabiliser Codes, and Classical Readout
+  Protocols
+type: software
+authors:
+  - name: "TODO: add author name(s) here after de-anonymisation"
+repository-code: "https://github.com/qprorepo/antimonyqudits"
+keywords:
+  - quantum computing
+  - qudit
+  - nuclear spin
+  - quantum error correction
+  - antimony-123
+  - stabiliser codes
+  - NMR readout
+license: MIT

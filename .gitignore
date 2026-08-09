@@ -1,0 +1,39 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- Generated figure output ---
+output/
+
+# --- LaTeX build artifacts ---
+manuscript/*.aux
+manuscript/*.bbl
+manuscript/*.bcf
+manuscript/*.blg
+manuscript/*.fdb_latexmk
+manuscript/*.fls
+manuscript/*.glg
+manuscript/*.glo
+manuscript/*.gls
+manuscript/*.ist
+manuscript/*.log
+manuscript/*.out
+manuscript/*.run.xml
+manuscript/*.synctex.gz
+manuscript/*.toc
+manuscript/*.acn
+manuscript/*.acr
+manuscript/*.alg
+
+# --- Large external data some users may pull locally ---
+data/QASMBench/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
